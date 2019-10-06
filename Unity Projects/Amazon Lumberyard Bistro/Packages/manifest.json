@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.formats.fbx": "2.0.3-preview.3",
     "com.unity.package-manager-ui": "2.0.8",
     "com.unity.render-pipelines.high-definition": "4.10.0-preview",
     "com.unity.textmeshpro": "1.4.1",
