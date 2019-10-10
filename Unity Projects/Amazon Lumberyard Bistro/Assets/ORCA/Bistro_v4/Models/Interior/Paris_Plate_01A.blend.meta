@@ -14,6 +14,7 @@ ModelImporter:
     3300000: //RootNode
     3300002: Paris_Plate_01A
     4300000: Paris_Plate_01A
+    6400000: Paris_Plate_01A
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -57,7 +58,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1

@@ -1,25 +1,37 @@
 fileFormatVersion: 2
-guid: 8f6ca9866971e104c8416964772982bd
+guid: 5564ed98f8137f6489d40c96bda29c50
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Paris_Table_02A
+    100002: Paris_Liquorbottle_10
     400000: //RootNode
-    400002: Paris_Table_02A
-    2100000: Paris_Table_03
+    400002: Paris_Liquorbottle_10
+    2100000: Paris_LiquorBottle_01_Glass_Wine
+    2100002: Paris_LiquorBottle_01_Caps
+    2100004: ToffeeJar_Label
     2300000: //RootNode
-    2300002: Paris_Table_02A
+    2300002: Paris_Liquorbottle_10
     3300000: //RootNode
-    3300002: Paris_Table_02A
-    4300000: Paris_Table_02A
-    6400000: Paris_Table_02A
+    3300002: Paris_Liquorbottle_10
+    4300000: Paris_Liquorbottle_10
+    6400000: Paris_Liquorbottle_10
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Paris_Table_03
-    second: {fileID: 2100000, guid: 97a56572a37524742b971c7dbae30cac, type: 2}
+      name: Paris_LiquorBottle_01_Caps
+    second: {fileID: 2100000, guid: 242144b6409e5c64bb5a7a175e319504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paris_LiquorBottle_01_Glass_Wine
+    second: {fileID: 2100000, guid: db0fbfcbe2c24e44da773afc5e641731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ToffeeJar_Label
+    second: {fileID: 2100000, guid: fdc2d6d6cd7923a449d697f090a4c2dc, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

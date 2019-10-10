@@ -1,25 +1,24 @@
 fileFormatVersion: 2
-guid: 8f6ca9866971e104c8416964772982bd
+guid: c299f88fd4806c642a5786c5e175b76f
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Paris_Table_02A
+    100002: Paris_Coasters_Set_01_B3
     400000: //RootNode
-    400002: Paris_Table_02A
-    2100000: Paris_Table_03
+    400002: Paris_Coasters_Set_01_B3
+    2100000: Paris_Coasters_01
     2300000: //RootNode
-    2300002: Paris_Table_02A
+    2300002: Paris_Coasters_Set_01_B3
     3300000: //RootNode
-    3300002: Paris_Table_02A
-    4300000: Paris_Table_02A
-    6400000: Paris_Table_02A
+    3300002: Paris_Coasters_Set_01_B3
+    4300000: Paris_Coasters_Set_01_B3
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Paris_Table_03
-    second: {fileID: 2100000, guid: 97a56572a37524742b971c7dbae30cac, type: 2}
+      name: Paris_Coasters_01
+    second: {fileID: 2100000, guid: f5f9de8a8377aa44e8ea160a33773349, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -52,7 +51,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
